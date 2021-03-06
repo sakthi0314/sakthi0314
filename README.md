@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rsremosakthi@gmail.com**
 
-- ⚡ Fun fact **Share what I learn to others**
+- ⚡ **Share what I learn to others**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
