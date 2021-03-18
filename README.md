@@ -19,15 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@shakthidev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@shakthidev" height="30" width="40" /></a>
-<a href="https://dev.to/sakthi0314" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sakthi0314" height="30" width="40" /></a>
 <a href="https://twitter.com/sakthi06658654" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sakthi06658654" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sakthivel-s-b8921a1ab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sakthivel-s-b8921a1ab" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sakthi0314" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="sakthi0314" height="30" width="40" /></a>
 <a href="https://fb.com/sakthi.gowri.52" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sakthi.gowri.52" height="30" width="40" /></a>
 <a href="https://instagram.com/sakthi0308" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sakthi0308" height="30" width="40" /></a>
-<a href="https://dribbble.com/sakthi0314" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="sakthi0314" height="30" width="40" /></a>
-<a href="https://medium.com/@rsremosakthi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rsremosakthi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,6 +31,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakthi0314&show_icons=true&locale=en&layout=compact" alt="sakthi0314" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakthi0314&show_icons=true&locale=en" alt="sakthi0314" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakthi0314&" alt="sakthi0314" /></p>
 
