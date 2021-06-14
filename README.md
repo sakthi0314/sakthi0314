@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Studing **B.SC VISCOM**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Angular**
 
 - 🤝 I’m looking for help **to improve my skill**
 
