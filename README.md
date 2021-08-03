@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakthi0314&label=Profile%20views&color=0e75b6&style=flat" alt="sakthi0314" /> </p>
 
-- 🔭 I’m currently Studing **B.SC VISCOM**
-
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Node js**
 
 - 🤝 I’m looking for help **to improve my skill**
-
-- 💬 Ask me any doute about **Javscript and css**
 
 - 📫 How to reach me **rsremosakthi@gmail.com**
 
